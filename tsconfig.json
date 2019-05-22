@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"target": "es2018",
+		"lib": ["es2018", "dom"],
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"strict": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"importHelpers": true,
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"isolatedModules": false,
+		"noImplicitAny": false,
+		"allowSyntheticDefaultImports": true,
+		"outDir": "dist",
+		"types": [
+			"node"
+		]
+	}
+}
